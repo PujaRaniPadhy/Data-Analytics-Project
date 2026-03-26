@@ -7,3 +7,4 @@ This repository contains all tasks completed during my internship.
 - Task 1: Data Immersion & Wrangling
 - Task 2: Exploratory Data Analysis (EDA) & Business
 Intelligence
+- Task 3: Deep-Dive Analysis & Interactive Dashboarding
